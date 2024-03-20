@@ -1,4 +1,4 @@
-#includE<iostream>
+#include<iostream>
 using namespace std;
 
 MinMax(A, n){
